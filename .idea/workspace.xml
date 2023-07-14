@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aaee5e46-617e-453c-9700-77614d518ef6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2SV8WOq1OhCVLRmFE1h1yeBumEq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/admin" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/admin/public" />
+      <recent name="$PROJECT_DIR$/admin/Models" />
+      <recent name="$PROJECT_DIR$/admin/Views" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/admin" />
+      <recent name="$PROJECT_DIR$/admin/Common" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aaee5e46-617e-453c-9700-77614d518ef6" name="Default Changelist" comment="" />
+      <created>1689220418988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689220418988</updated>
+      <workItem from="1689220420572" duration="395000" />
+      <workItem from="1689224905272" duration="15677000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1689238931325">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1689238931325" />
+    <state x="533" y="375" key="NewPhpFileDialog" timestamp="1689291004745">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="375" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1689291004745" />
+    <state x="571" y="390" key="NewPhpFileDialog/61.25.1379.875@61.25.1379.875" timestamp="1689225474338" />
+    <state x="259" y="98" key="SettingsEditor" timestamp="1689232505532">
+      <screen x="61" y="25" width="1379" height="875" />
+    </state>
+    <state x="259" y="98" key="SettingsEditor/61.25.1379.875@61.25.1379.875" timestamp="1689232505532" />
+    <state x="452" y="217" width="597" height="490" key="find.popup" timestamp="1689234099629">
+      <screen x="61" y="25" width="1379" height="875" />
+    </state>
+    <state x="452" y="217" width="597" height="490" key="find.popup/61.25.1379.875@61.25.1379.875" timestamp="1689234099629" />
+  </component>
+</project>
